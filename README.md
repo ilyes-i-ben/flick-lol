@@ -1,4 +1,4 @@
-# 💫About Me :
+# 💫About Me : [![](https://visitcount.itsvg.in/api?id=flick-lol&icon=0&color=0)](https://visitcount.itsvg.in)
 💻 **AI** Student and **coding** enthusiast... <br>
 🌟Currently working on Multiple Project Using **Java**, **Electron.JS**, **React.JS**, even some of **C++** from now and then..<br>
 🎈Finishing the _**ME**_ from _**MERN**_ Developer... As well as **Operating Systems**, Coding in **Assembly** <span style="color:red">(**RISC-V**)</span>...<br>
@@ -18,4 +18,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=flick-lol&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=flick-lol&icon=0&color=0)](https://visitcount.itsvg.in)
