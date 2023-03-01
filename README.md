@@ -1,8 +1,8 @@
 # 💫About Me :
--💻 **AI** Student and **coding** enthusiast... <br>
--🌟Currently working on Multiple Project Using **Java**, **Electron.JS**, **React.JS**, even some of **C++** from now and then..<br>
--🎈Finishing the _**ME**_ from _**MERN**_ Developer... As well as **Operating Systems**, Coding in **Assembly** <span style="color:red">(**RISC-V**)</span>...<br>
--➗**Mathematics** ? Meh... Maybe<br>
+💻 **AI** Student and **coding** enthusiast... <br>
+🌟Currently working on Multiple Project Using **Java**, **Electron.JS**, **React.JS**, even some of **C++** from now and then..<br>
+🎈Finishing the _**ME**_ from _**MERN**_ Developer... As well as **Operating Systems**, Coding in **Assembly** <span style="color:red">(**RISC-V**)</span>...<br>
+➗**Mathematics** ? Meh... Maybe<br>
 
 
 
