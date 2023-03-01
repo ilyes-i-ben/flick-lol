@@ -1,8 +1,8 @@
 # 💫About Me :
-AI Student and coding enthusiast... 
-Currently working on Multiple Project Using Java, Electron.JS, React.JS, even some of C++ from now and then..
-Finishing the "ME" from "MERN" Developer... As well as Operating Systems, Coding in assembly (RISC-V)...
-Mathematics ? Meh... Maybe
+AI Student and coding enthusiast... <br>
+Currently working on Multiple Project Using Java, Electron.JS, React.JS, even some of C++ from now and then..<br>
+Finishing the "ME" from "MERN" Developer... As well as Operating Systems, Coding in assembly (RISC-V)...<br>
+Mathematics ? Meh... Maybe<br>
 
 
 
