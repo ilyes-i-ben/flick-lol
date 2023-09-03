@@ -1,8 +1,8 @@
 # 💫About Me :
 ![](https://komarev.com/ghpvc/?flick-lol)
 💻 **Computer Science** Student and **coding** enthusiast... <br>
-🌟Currently working on my portfolio...
-🎈MERN Stack Developer
+🌟Currently working on my portfolio... <br>
+🎈MERN Stack Developer <br>
 ➗**Mathematics** ? It's Cool...<br>
 
 
